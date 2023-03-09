@@ -5,4 +5,4 @@
 
 *  This is the part of my JS learning series and inspired by Jonas
 
-* [Click to Play the Game](https://rajab1691.github.io/Day2-Modal-Window/)
+* [Click to Play the Game](https://rajab1691.github.io/Day3-Pig-Game/)
